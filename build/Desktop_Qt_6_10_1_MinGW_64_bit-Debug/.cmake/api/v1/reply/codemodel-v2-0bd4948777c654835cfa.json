@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-20bbaef4566ce4c4b8f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MidiMixer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-771cf428874adf3d0f02.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f72056eefae1ab2e280a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-5d95dc42133762a64923.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-97d2402445e733b2bae6.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a50adae70f1c23399d41.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer-Debug-2782cc519971813f5b3a.json",
+					"name" : "appMidiMixer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_autogen-Debug-1e452ae5ea44013cd167.json",
+					"name" : "appMidiMixer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_autogen_timestamp_deps-Debug-f69e8900eb33fc8cf888.json",
+					"name" : "appMidiMixer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_copy_qml-Debug-696db75db6f635a81d9c.json",
+					"name" : "appMidiMixer_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_copy_res-Debug-536242c1021e1b29879b.json",
+					"name" : "appMidiMixer_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_qmlimportscan-Debug-4f40bb431d9ab3b7a9c7.json",
+					"name" : "appMidiMixer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_qmllint-Debug-42cae08f14393e2fd87f.json",
+					"name" : "appMidiMixer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_qmllint_json-Debug-51e6ac651c9ee4d08375.json",
+					"name" : "appMidiMixer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_qmllint_module-Debug-de44c9c123e23a560156.json",
+					"name" : "appMidiMixer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMidiMixer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMidiMixer_qmltyperegistration-Debug-54bd738109a6c5697317.json",
+					"name" : "appMidiMixer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-5d8663e25c59d7cf7e3b.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appMidiMixer_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appMidiMixer_aotstats_target-Debug-c502176cff55547a9e7d.json",
+					"name" : "module_appMidiMixer_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "C:/_Git/MidiMixer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

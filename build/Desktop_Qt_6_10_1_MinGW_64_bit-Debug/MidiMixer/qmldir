@@ -1,0 +1,6 @@
+module MidiMixer
+typeinfo appMidiMixer.qmltypes
+prefer :/qt/qml/MidiMixer/
+Main 254.0 Main.qml
+depends QtQuick
+

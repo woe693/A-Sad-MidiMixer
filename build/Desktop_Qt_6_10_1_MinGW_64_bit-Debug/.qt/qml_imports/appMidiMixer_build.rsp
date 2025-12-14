@@ -1,0 +1,14 @@
+-rootPath
+C:/_Git/MidiMixer
+-cmake-output
+-output-file
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/qml_imports/appMidiMixer_build.cmake
+-importPath
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/MidiMixer
+-importPath
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-importPath
+E:/Software/Qt/6.10.1/mingw_64/qml
+-qrcFiles
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_MidiMixer.qrc
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appMidiMixer_raw_qml_0.qrc

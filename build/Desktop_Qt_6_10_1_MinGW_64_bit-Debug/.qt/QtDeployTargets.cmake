@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appMidiMixer_FILE C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appMidiMixer.exe)
+set(__QT_DEPLOY_TARGET_appMidiMixer_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appMidiMixer_RUNTIME_DLLS E:/Software/Qt/6.10.1/mingw_64/bin/Qt6Quick.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6OpenGL.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6Gui.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6QmlMeta.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6QmlModels.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6QmlWorkerScript.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6Qml.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6Network.dll;E:/Software/Qt/6.10.1/mingw_64/bin/Qt6Core.dll)

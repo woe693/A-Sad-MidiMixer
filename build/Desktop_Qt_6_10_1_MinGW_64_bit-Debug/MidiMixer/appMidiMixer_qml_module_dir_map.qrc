@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/MidiMixer">C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/MidiMixer</file>
+
+  </qresource>
+</RCC>
