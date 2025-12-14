@@ -2,5 +2,6 @@ module MidiMixer
 typeinfo appMidiMixer.qmltypes
 prefer :/qt/qml/MidiMixer/
 Main 254.0 Main.qml
+Slider 254.0 Content/Slider.qml
 depends QtQuick
 

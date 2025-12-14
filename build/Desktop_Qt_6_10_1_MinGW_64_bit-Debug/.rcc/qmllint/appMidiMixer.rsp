@@ -7,4 +7,7 @@ E:/Software/Qt/6.10.1/mingw_64/qml
 C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_MidiMixer.qrc
 --resource
 C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appMidiMixer_raw_qml_0.qrc
+--resource
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appMidiMixer_raw_qml_0_extra_qmldirs.qrc
 C:/_Git/MidiMixer/Main.qml
+C:/_Git/MidiMixer/Content/Slider.qml

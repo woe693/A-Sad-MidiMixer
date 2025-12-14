@@ -1,6 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/MidiMixer/">
     <file alias="Main.qml">C:/_Git/MidiMixer/Main.qml</file>
+    <file alias="Content/Slider.qml">C:/_Git/MidiMixer/Content/Slider.qml</file>
   </qresource>
 </RCC>
 
