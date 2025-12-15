@@ -50,6 +50,10 @@ qt_add_qml_module(appMidiMixer
         SOURCES
         SOURCES Commands/Command.h Commands/Command.cpp
         RESOURCES Mixers/NanoKontrol2/ButtonMap.json
+        SOURCES Volume/volumelistener.h Volume/volumelistener.cpp
+        SOURCES Volume/Helper/VolumeIObserver.h
+        SOURCES Volume/Helper/VolumeISubject.h
+        SOURCES Volume/volume.h Volume/volume.cpp
 )
 
 set_target_properties(appMidiMixer PROPERTIES

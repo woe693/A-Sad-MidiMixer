@@ -1,5 +1,11 @@
 {
     "Sliders":{
+
+        "0":{
+            "Knob":"8",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
         "1":{
             "Knob":"9",
             "Select":"",
@@ -35,16 +41,7 @@
             "Select":"",
             "Mute":"",
             "Record":""},
-        "8":{
-            "Knob":"",
-            "Select":"",
-            "Mute":"",
-            "Record":""},
-        "9":{
-            "Knob":"16",
-            "Select":"",
-            "Mute":"",
-            "Record":""},
+
     },
     "MediaButtons":{
     "TrackLeft" : "58",

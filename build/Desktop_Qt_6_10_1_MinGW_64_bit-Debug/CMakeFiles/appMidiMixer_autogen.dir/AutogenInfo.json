@@ -883,6 +883,30 @@
 			"MU",
 			"44IOW3UE7K/moc_nanokontrol2.cpp",
 			null
+		],
+		[
+			"C:/_Git/MidiMixer/Volume/Helper/VolumeIObserver.h",
+			"MU",
+			"KVTG5AVC2O/moc_VolumeIObserver.cpp",
+			null
+		],
+		[
+			"C:/_Git/MidiMixer/Volume/Helper/VolumeISubject.h",
+			"MU",
+			"KVTG5AVC2O/moc_VolumeISubject.cpp",
+			null
+		],
+		[
+			"C:/_Git/MidiMixer/Volume/volume.h",
+			"MU",
+			"OFXDTUX2AW/moc_volume.cpp",
+			null
+		],
+		[
+			"C:/_Git/MidiMixer/Volume/volumelistener.h",
+			"MU",
+			"OFXDTUX2AW/moc_volumelistener.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -979,6 +1003,8 @@
 	[
 		[ "C:/_Git/MidiMixer/Commands/command.cpp", "MU", null ],
 		[ "C:/_Git/MidiMixer/Mixers/NanoKontrol2/nanokontrol2.cpp", "MU", null ],
+		[ "C:/_Git/MidiMixer/Volume/volume.cpp", "MU", null ],
+		[ "C:/_Git/MidiMixer/Volume/volumelistener.cpp", "MU", null ],
 		[ "C:/_Git/MidiMixer/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
