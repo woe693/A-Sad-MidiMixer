@@ -3,6 +3,9 @@ C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_MidiM
 --resource
 C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appMidiMixer_raw_qml_0.qrc
 --resource
+C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appMidiMixer_raw_res_0.qrc
+--resource
 C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appMidiMixer_raw_qml_0_extra_qmldirs.qrc
 /qt/qml/MidiMixer/Main.qml
-/qt/qml/MidiMixer/Content/Slider.qml
+/qt/qml/MidiMixer/Mixers/NanoKontrol2/NanoKontrol2.qml
+/qt/qml/MidiMixer/Mixers/NanoKontrol2/VolumeFader.qml

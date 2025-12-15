@@ -1,5 +1,9 @@
 appMidiMixer_autogen/timestamp: \
 	C:/_Git/MidiMixer/CMakeLists.txt \
+	C:/_Git/MidiMixer/Commands/Command.h \
+	C:/_Git/MidiMixer/Commands/command.cpp \
+	C:/_Git/MidiMixer/Mixers/NanoKontrol2/nanokontrol2.cpp \
+	C:/_Git/MidiMixer/Mixers/NanoKontrol2/nanokontrol2.h \
 	C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/qml_imports/appMidiMixer_conf.cmake \
 	C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \

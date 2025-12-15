@@ -39,10 +39,17 @@ qt_add_qml_module(appMidiMixer
         Main.qml
         QML_FILES
         SOURCES
-        SOURCES midicontroller.cpp
+        SOURCES
         QML_FILES
-        SOURCES midicontroller.h
-        QML_FILES Content/Slider.qml
+        SOURCES
+        QML_FILES
+        QML_FILES
+        QML_FILES Mixers/NanoKontrol2/NanoKontrol2.qml
+        QML_FILES Mixers/NanoKontrol2/VolumeFader.qml
+        SOURCES Mixers/NanoKontrol2/nanokontrol2.h Mixers/NanoKontrol2/nanokontrol2.cpp
+        SOURCES
+        SOURCES Commands/Command.h Commands/Command.cpp
+        RESOURCES Mixers/NanoKontrol2/ButtonMap.json
 )
 
 set_target_properties(appMidiMixer PROPERTIES

@@ -5,14 +5,6 @@
             "moduleFiles": [
                 {
                     "entries": [
-                        {
-                            "codegenResult": 2,
-                            "column": 38,
-                            "durationMicroseconds": 0,
-                            "functionName": "orientation",
-                            "line": 56,
-                            "message": "Could not find property \"orientation\"."
-                        }
                     ],
                     "filePath": "C:/_Git/MidiMixer/Main.qml"
                 }

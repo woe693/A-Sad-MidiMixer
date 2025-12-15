@@ -2,6 +2,7 @@ module MidiMixer
 typeinfo appMidiMixer.qmltypes
 prefer :/qt/qml/MidiMixer/
 Main 254.0 Main.qml
-Slider 254.0 Content/Slider.qml
+NanoKontrol2 254.0 Mixers/NanoKontrol2/NanoKontrol2.qml
+VolumeFader 254.0 Mixers/NanoKontrol2/VolumeFader.qml
 depends QtQuick
 

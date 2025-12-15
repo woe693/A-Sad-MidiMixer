@@ -1,11 +1,19 @@
 import QtQuick
 import QtQuick.Controls
+import QtQuick.Layouts
 
 Slider {
     id: numberPad
-    width: 100
-    height: 40
-    visible: true
 
-
+    RowLayout{
+        spacing:1
+        Rectangle{
+            height:52
+            color:"grey"
+        }
+        Rectangle{
+            height:208
+            color:"white"
+        }
+    }
 }

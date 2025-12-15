@@ -12,7 +12,14 @@ namespace _qt_qml_MidiMixer_Main_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_MidiMixer_Content_Slider_qml { 
+namespace _qt_qml_MidiMixer_Mixers_NanoKontrol2_NanoKontrol2_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_MidiMixer_Mixers_NanoKontrol2_VolumeFader_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -34,7 +41,8 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/MidiMixer/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_MidiMixer_Main_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/MidiMixer/Content/Slider.qml"), &QmlCacheGeneratedCode::_qt_qml_MidiMixer_Content_Slider_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/MidiMixer/Mixers/NanoKontrol2/NanoKontrol2.qml"), &QmlCacheGeneratedCode::_qt_qml_MidiMixer_Mixers_NanoKontrol2_NanoKontrol2_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/MidiMixer/Mixers/NanoKontrol2/VolumeFader.qml"), &QmlCacheGeneratedCode::_qt_qml_MidiMixer_Mixers_NanoKontrol2_VolumeFader_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

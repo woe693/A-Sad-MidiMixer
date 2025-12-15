@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "C:/_Git/MidiMixer/Mixers/NanoKontrol2/NanoKontrol2.qml"
+                }
+            ],
+            "moduleId": "MidiMixer(appMidiMixer)"
+        }
+    ]
+}

@@ -859,6 +859,7 @@
 		"E:/Software/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"E:/Software/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
 		"E:/Software/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"E:/Software/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"E:/Software/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"E:/Software/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"E:/Software/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
@@ -872,9 +873,15 @@
 	"HEADERS" : 
 	[
 		[
-			"C:/_Git/MidiMixer/midicontroller.h",
+			"C:/_Git/MidiMixer/Commands/Command.h",
 			"MU",
-			"EWIEGA46WW/moc_midicontroller.cpp",
+			"6E3QXH7VSP/moc_Command.cpp",
+			null
+		],
+		[
+			"C:/_Git/MidiMixer/Mixers/NanoKontrol2/nanokontrol2.h",
+			"MU",
+			"44IOW3UE7K/moc_nanokontrol2.cpp",
 			null
 		]
 	],
@@ -952,9 +959,11 @@
 	[
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appMidiMixer_raw_qml_0.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appMidiMixer_raw_qml_0_extra_qmldirs.cpp",
+		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appMidiMixer_raw_res_0.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MidiMixer.cpp",
-		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Content/Slider_qml.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Main_qml.cpp",
+		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Mixers/NanoKontrol2/NanoKontrol2_qml.cpp",
+		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Mixers/NanoKontrol2/VolumeFader_qml.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_qmlcache_loader.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appmidimixer_qmltyperegistrations.cpp"
 	],
@@ -968,8 +977,9 @@
 	"SETTINGS_FILE" : "C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/appMidiMixer_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "C:/_Git/MidiMixer/main.cpp", "MU", null ],
-		[ "C:/_Git/MidiMixer/midicontroller.cpp", "MU", null ]
+		[ "C:/_Git/MidiMixer/Commands/command.cpp", "MU", null ],
+		[ "C:/_Git/MidiMixer/Mixers/NanoKontrol2/nanokontrol2.cpp", "MU", null ],
+		[ "C:/_Git/MidiMixer/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
@@ -977,9 +987,11 @@
 	[
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appMidiMixer_raw_qml_0.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appMidiMixer_raw_qml_0_extra_qmldirs.cpp",
+		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_appMidiMixer_raw_res_0.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_MidiMixer.cpp",
-		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Content/Slider_qml.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Main_qml.cpp",
+		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Mixers/NanoKontrol2/NanoKontrol2_qml.cpp",
+		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_Mixers/NanoKontrol2/VolumeFader_qml.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.rcc/qmlcache/appMidiMixer_qmlcache_loader.cpp",
 		"C:/_Git/MidiMixer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appmidimixer_qmltyperegistrations.cpp"
 	],

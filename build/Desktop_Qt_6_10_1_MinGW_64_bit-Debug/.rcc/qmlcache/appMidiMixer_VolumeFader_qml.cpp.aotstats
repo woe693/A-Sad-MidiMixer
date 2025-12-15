@@ -1,0 +1,23 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 18,
+                            "durationMicroseconds": 0,
+                            "functionName": "orientation",
+                            "line": 6,
+                            "message": "Could not find property \"orientation\"."
+                        }
+                    ],
+                    "filePath": "C:/_Git/MidiMixer/VolumeFader.qml"
+                }
+            ],
+            "moduleId": "MidiMixer(appMidiMixer)"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Sliders":{
+
+        "0":{
+            "Knob":"8",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "1":{
+            "Knob":"9",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "2":{
+            "Knob":"10",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "3":{
+            "Knob":"11",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "4":{
+            "Knob":"12",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "5":{
+            "Knob":"13",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "6":{
+            "Knob":"14",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+        "7":{
+            "Knob":"15",
+            "Select":"",
+            "Mute":"",
+            "Record":""},
+
+    },
+    "MediaButtons":{
+    "TrackLeft" : "58",
+    "TrackRight" : "59",
+    }
+}
